@@ -1,5 +1,5 @@
-Learnings:
-1. The output I get is "Not Armstrong Number" for whatever input given. Please correct me
+//Learnings:
+//1. The output I get is "Not Armstrong Number" for whatever input given. Please correct me
 
 package week1.day2;
 

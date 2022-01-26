@@ -1,3 +1,6 @@
+//Learnings:
+//Only if I print the secNum also, the output I get is 0 1 1 2 3.... otherwise the output is 0 1 2 3...Please correct me
+
 package week1.day2;
 
 public class FibonacciSeries {
